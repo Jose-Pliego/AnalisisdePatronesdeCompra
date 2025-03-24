@@ -1,4 +1,4 @@
-# Segmentación de Clientes con la Metodología RFM
+# Segmentación de Clientes
 
 ## Propósito del Proyecto
 
